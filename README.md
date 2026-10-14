@@ -4,11 +4,14 @@ Industrial and Systems Engineering at Georgia Tech · AI and Operations Research
 
 Looking for Summer 2027 internships in operations, supply chain, analytics, or product.
 
+**Portfolio:** [vyomshah.netlify.app](https://vyomshah.netlify.app) · mirrored at [vyom-shah-2005.github.io](https://vyom-shah-2005.github.io)
+
 ## Projects
 
 - [Ramblin' Supplies DB](https://github.com/Vyom-Shah-2005/ramblin-supplies-db) (MySQL): delivery network database with 15 tables, 21 stored procedures, and 7 reporting views. Team of three; I wrote 7 of the procedures.
 - [IMDb Ratings Analysis](https://github.com/Vyom-Shah-2005/imdb-ratings-analysis) (Python): predicts a film's rating before release from 48,557 films. Genre was the strongest signal. [Video](https://youtu.be/5Vt6wW4SVfc)
 - [The Air We Share](https://storymaps.arcgis.com/stories/0f0d1e548e634ad5810e2beb3d2f2383) (ArcGIS): maps air pollution and traffic around 26 Atlanta school campuses.
+- [Portfolio site](https://github.com/Vyom-Shah-2005/Vyom-Shah-2005.github.io) (HTML, CSS, JS): the single page above, hand-built, no framework. Live at [vyom-shah-2005.github.io](https://vyom-shah-2005.github.io).
 
 ## Experience
 
@@ -30,4 +33,4 @@ Looking for Summer 2027 internships in operations, supply chain, analytics, or p
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/vyom-s) · [Email](mailto:vyomshah150@gmail.com)
+[Portfolio](https://vyomshah.netlify.app) · [LinkedIn](https://www.linkedin.com/in/vyom-s) · [Email](mailto:vyomshah150@gmail.com)
