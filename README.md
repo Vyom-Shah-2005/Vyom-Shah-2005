@@ -4,7 +4,7 @@ Industrial and Systems Engineering at Georgia Tech · AI and Operations Research
 
 Looking for Summer 2027 internships in operations, supply chain, analytics, or product.
 
-**Portfolio:** [vyomshah.netlify.app](https://vyomshah.netlify.app) · mirrored at [vyom-shah-2005.github.io](https://vyom-shah-2005.github.io)
+**Portfolio:** [vyomshah.netlify.app](https://vyomshah.netlify.app) / [vyom-shah-2005.github.io](https://vyom-shah-2005.github.io)
 
 ## Projects
 
